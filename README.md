@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `CHN50_3m.csv` (18,483 rows, `2026-06-26` -> `2026-09-02`, 1.34 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/chn50)** — **897,531** `3m` rows (full `1m`: 2,681,069), **11 timeframes**, `2017-07-17` -> `2026-09-02`.
+> **Sample on GitHub** · `CHN50_3m.csv` (18,480 rows, `2026-06-26` -> `2026-09-02`, 1.34 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/chn50)** — **897,531** `3m` rows (full `1m`: 2,664,006), **11 timeframes**, `2017-07-17` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | FTSE China A50 · Index | FTSE China A50 · Index |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,483 | **897,531** |
+| 3m rows | 18,480 | **897,531** |
 | Size | 1.34 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/chn50) |
 | Period | `2026-06-26` -> `2026-09-02` | `2017-07-17` -> `2026-09-02` |
 | File | `CHN50_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/chn50) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`CHN50_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-06-26T01:48:00+00:00 | 15506.04 | 15551.54 | 15499.02 | 15544.53 | 3055 |
-| 2026-06-26T01:51:00+00:00 | 15544.53 | 15568.54 | 15535.53 | 15539.02 | 3156 |
-| 2026-06-26T01:54:00+00:00 | 15539.02 | 15551.04 | 15522.53 | 15541.03 | 2925 |
 | 2026-06-26T01:57:00+00:00 | 15541.03 | 15571.04 | 15536.03 | 15571.03 | 2683 |
 | 2026-06-26T02:00:00+00:00 | 15571.03 | 15575.04 | 15541.02 | 15567.03 | 2543 |
+| 2026-06-26T02:03:00+00:00 | 15567.03 | 15580.04 | 15532.03 | 15532.53 | 2119 |
+| 2026-06-26T02:06:00+00:00 | 15532.53 | 15549.04 | 15513.02 | 15544.04 | 2004 |
+| 2026-06-26T02:09:00+00:00 | 15544.04 | 15554.52 | 15486.52 | 15487.52 | 2039 |
 
 **Last rows**
 
